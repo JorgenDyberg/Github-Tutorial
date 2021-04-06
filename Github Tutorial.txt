@@ -10,4 +10,7 @@ Understanding
 Worth While
 These are the reaons I'm learning Github
 And of course Git
-Lack of visual stimulous
+Cons: Lack of visual stimulous
+Costs: time consuming
+Cost: Resource demanding
+Cost: Adaptation 
