@@ -4,4 +4,5 @@ Education
 Improvement 
 Communcation
 New Skills
+Understanding
 These are the reaons I'm learning Github
