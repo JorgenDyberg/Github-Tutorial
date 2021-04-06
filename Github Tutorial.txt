@@ -1,4 +1,4 @@
-The Github and Git Tutorials
+The Github, Git Tutorials and their costs
 Learning
 Education
 Improvement 
@@ -10,3 +10,4 @@ Understanding
 Worth While
 These are the reaons I'm learning Github
 And of course Git
+Lack of visual stimulous
