@@ -5,4 +5,5 @@ Improvement
 Communcation
 New Skills
 Understanding
+Worth While
 These are the reaons I'm learning Github
